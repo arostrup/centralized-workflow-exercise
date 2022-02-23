@@ -1,0 +1,5 @@
+# A list of cities where I have lived.
+
+- Heroldsbach
+- Hamburg
+- Tromsoe
