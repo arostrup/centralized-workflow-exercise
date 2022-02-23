@@ -9,7 +9,7 @@ Ingredients:
 Instruction:
 *start boiling your water
 *Start frying you protein
-*At this point the water sould be boiling add your noodles
+*At this point the water should be boiling add your noodles
 *when protein is done add wok mix
 *Now add as mutch oyster sauce and soy sauce as you deem necessary (large amounts)
 *And spices
