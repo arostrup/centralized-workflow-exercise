@@ -3,3 +3,5 @@
 - Heroldsbach
 - Hamburg
 - Tromsoe
+
+# The list can be extended by others...
