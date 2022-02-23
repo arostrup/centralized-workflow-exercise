@@ -1,0 +1,4 @@
+A git feature I use all the time:
+
+git commit -v, this shows me the difference
+I am about to commit in the message editor.
