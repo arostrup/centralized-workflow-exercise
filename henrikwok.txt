@@ -7,7 +7,7 @@ Ingredients:
 * Any decired spices
 * Beer
 Instruction:
-*start boiling your water
+*start boiling your water by adding water to a pot and putting it on the stove
 *Start frying you protein
 *At this point the water should be boiling add your noodles
 *when protein is done add wok mix
