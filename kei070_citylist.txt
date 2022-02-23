@@ -1,7 +1,7 @@
 # A list of cities where I have lived.
 
-- Heroldsbach
-- Hamburg
-- Tromsoe
+- Heroldsbach (Germany)
+- Hamburg (Germany)
+- Tromsoe (Norway)
 
 # The list can be extended by others...
